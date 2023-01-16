@@ -4,6 +4,7 @@ public class Massives {
         double[] array1 = new double[6];
         String[] array2 = {"bdhd", "jdjd"};
         String[] array3 = new String[2];
+        array3[0] = "fhfh";
 
         array1[0] = 1.2;
         array1[2] = 5.8;
